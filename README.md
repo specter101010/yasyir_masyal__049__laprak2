@@ -43,9 +43,9 @@
 <ol>
   <li>Tekan Windows + R </li>
   <li>Lalu ketik "ncpa.cpl"</li>
-  <img  src="2 ncpa.jpg" alt="cable"  width="300px">
+  <img  src="2 ncpa.png" alt="cable"  width="300px">
   <li>Configurasi Cabel LAN yang terpasang (di sini tertulis Ethernet 5 pada device saya)</li>
-  <img  src="3 network config.jpg" alt="cable"  width="300px">
+  <img  src="3 network config.png" alt="cable"  width="300px">
   <li>Klik Properties</li>
   <img  src="4 eternet 5.png" alt="cable"  width="300px">
   <li>Klik Internet Protokol Version 4 (TCP/IPv4 )</li>
