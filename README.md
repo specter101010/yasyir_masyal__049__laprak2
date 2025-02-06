@@ -20,7 +20,7 @@
   JUDUL PERCOBAAN
 </h1 >
 <hr>
-<h2>Transfer File Antar Komputer via Kabel LAN </h2>
+<h2>Transfer File Antar Komputer via Kabel LAN dengan IP Address Versi 4 (IPv4) </h2>
 
 <h3> Alat dan Bahan </h3>
  <img  src="free cable.jpg" alt="cable"  width="300px">
