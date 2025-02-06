@@ -1,4 +1,4 @@
-![16 choose people](https://github.com/user-attachments/assets/7d46d74a-c430-4082-8c0b-5fe94e46ebd1)![8 advanced network](https://github.com/user-attachments/assets/94e1d4c7-8379-4a15-8b4b-873bdd1b7cbe)![7 settings](https://github.com/user-attachments/assets/d2b9890a-52f5-434c-a347-ea98bde316c3)![6 eternet general](https://github.com/user-attachments/assets/1d481faf-6dfa-4408-82cc-9e7eb3814af6)📌 Laporan Praktikum Jaringan Komputer
+📌 Laporan Praktikum Jaringan Komputer
 
   <table>
         <tr>
