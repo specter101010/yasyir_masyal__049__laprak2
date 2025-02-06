@@ -1,4 +1,4 @@
-📌 Laporan Praktikum Jaringan Komputer
+![16 choose people](https://github.com/user-attachments/assets/7d46d74a-c430-4082-8c0b-5fe94e46ebd1)![8 advanced network](https://github.com/user-attachments/assets/94e1d4c7-8379-4a15-8b4b-873bdd1b7cbe)![7 settings](https://github.com/user-attachments/assets/d2b9890a-52f5-434c-a347-ea98bde316c3)![6 eternet general](https://github.com/user-attachments/assets/1d481faf-6dfa-4408-82cc-9e7eb3814af6)📌 Laporan Praktikum Jaringan Komputer
 
   <table>
         <tr>
@@ -23,12 +23,12 @@
 <h2>Transfer File Antar Komputer via Kabel LAN dengan IP Address Versi 4 (IPv4) </h2>
 
 <h3> Alat dan Bahan </h3>
- <img  src="free cable.jpg" alt="cable"  width="300px">
+ <img  src="kable.jpg" alt="cable"  width="300px">
  <h4>Kabel LAN</h4>
 
 <br>
  
- <img  src="conector rj45.jpg" alt="cable"  width="300px">
+ <img  src="1 KOMPUTER.jpg" alt="cable"  width="300px">
  <h4>2 BUAH KOMPUTER</h4>
  
 
@@ -36,68 +36,85 @@
 
 <h2>Hasil Percobaan</h2>
 
-<p>Pada percobaan ini, saya melakukan proses pembuatan kabel jaringan
-menggunakan Kabel UTP (Unshielded Twisted Pair) dengan konektor RJ45, alat penjepit Crimping
-Tool, dan pengujian menggunakan LAN Cable Tester.</p>
+<p>Pada percobaan ini, saya melakukan proses Trasnfer file mengunakan kabel LAN dengan ip v4</p>
 
-<h3>Berikut adalah langkah-langkah untuk crimping kabel UTP</h3>
+<h3>Konfigurasi IP Address IPv4</h3>
 
 <ol>
-  <li>Potong kabel UTP: Potong kabel UTP sesuai dengan panjang yang dibutuhkan</li>
-  <li>Buka isolasi kabel: Buka isolasi kabel UTP dengan menggunakan alat pembuka isolasi</li>
-   <img  src="free cable.jpg" alt="cable"  width="300px">
-  <li>Urutkan kabel: Urutkan kabel UTP sesuai dengan standar TIA/EIA-568-B (putih-oranye, oranye, putih-hijau, biru, putih-biru, hijau, putih-coklat, coklat).</li>
-  <li>dan untuk cross Urutkan kabel: Urutkan kabel UTP sesuai dengan standar TIA/EIA-568-B (putih-oranye, oranye, putih-hijau, biru, putih-biru, hijau, putih-coklat, coklat), tetapi dengan urutan yang berbeda untuk kabel crossover.</li>
-   <img  src="corss dan straight.jpg" alt="cable"  width="300px">
-   <li>Masukkan kabel ke konektor: Masukkan kabel UTP ke konektor RJ-45 dengan hati-hati.</li>
-   <li>Crimping kabel: Gunakan alat crimping untuk menghubungkan kabel UTP ke konektor RJ-45.
-hasil:</li>
-<img  src="griping.jpg" alt="cable"  width="300px">
-<li>Periksa koneksi: Periksa koneksi dengan menggunakan tester kabel.</li>
-  <img  src="straight.jpg" alt="cable"  width="300px">
-  <h3>straight cable</h3>
-  <img  src="cross.jpg" alt="cable"  width="300px">
-  <h3>cross cable</h3>
+  <li>Tekan Windows + R </li>
+  <li>Lalu ketik "ncpa.cpl"</li>
+  <img  src="2 ncpa.jpg" alt="cable"  width="300px">
+  <li>Configurasi Cabel LAN yang terpasang (di sini tertulis Ethernet 5 pada device saya)</li>
+  <img  src="3 network config.jpg" alt="cable"  width="300px">
+  <li>Klik Properties</li>
+  <img  src="4 eternet 5.png" alt="cable"  width="300px">
+  <li>Klik Internet Protokol Version 4 (TCP/IPv4 )</li>
+  <img  src="5 eternet propertis.png" alt="cable"  width="300px">
+  <li>Isi nilai Ip addres dengan contoh seperti pada gambar </li>
+  <img  src="6 eternet general.png" alt="cable"  width="300px">
+  <li>Pergi kek settings -> advanced network settings </li>
+  <img  src="7 settings.png" alt="cable"  width="300px">
+  <li>Lalu Klik advance shareing settings </li>
+  <img  src="8 advanced network.png" alt="cable"  width="300px">
+  
+  <li>Ikuti settings pada gambar </li>
+  <img  src="10 settings network.png" alt="cable"  width="300px">
+  
+  
+  <li>Testing pink komputer satunya dengan alamat ip yang sudah di setting pada komputer satunya </li>
+  <img  src="11 ping.png" alt="cable"  width="300px">
+  
+  <li>Testing pink komputer satunya dengan alamat ip yang sudah di setting pada komputer satunya </li>
+  <img  src="11 ping.png" alt="cable"  width="300px">
+  
+  <br>
+  <br>
+  <h3> Share File </h3>
+
+  
+  <li>Pilih folder yang ingin di Share </li>
+  <img  src="12 choise folder.png" alt="cable"  width="300px">
+  
+  <li>Klik kanan pada folder </li>
+  <img  src="13 settings folder.png" alt="cable"  width="300px">
+  
+  <li>Pilih Give access to - Spesfik People</li>
+  <img  src="14 send folder.png" alt="cable"  width="300px">
+  
+  <li>Pilih ingin di bagikan ke siapa</li>
+  <img  src="15 config share.png" alt="cable"  width="300px">
+  
+  <li>Pilih Everyone</li>
+  <img  src="16 choose people.png" alt="cable"  width="300px">
+  
+  <li>Edit Permision ->Read/Write </li>
+  <img  src="19 choose permision.png" alt="cable"  width="300px">
+  
+  <li>susces membagikan </li>
+  <img  src="20 sucsess share.png" alt="cable"  width="300px">
+  
+   <h3> Output </h3>
+   <li>Terlihat pada gambar bahwa file sudah berhasil di bagikan melalui LAN ke komputer satunya </li>
+  <img  src="21 output.png" alt="cable"  width="300px">
+  
 </ol>
 
 <hr>
 
 <h2>Analisis Percobaan :</h2>
-<p>Dalam percobaan ini, dilakukan proses perakitan kabel jaringan menggunakan
-kabel UTP dengan konektor RJ45 serta pengujian menggunakan LAN Cable Tester. Terdapat dua
-metode penyusunan kabel yang digunakan, yaitu Straight dan Cross, yang masing-masing memiliki
-fungsi berbeda dalam jaringan komputer.</p>
+<p>Berdasarkan hasil percobaan, penggunaan kabel LAN dengan konfigurasi IP Address IPv4 memungkinkan komunikasi langsung antar komputer tanpa memerlukan koneksi internet. Kecepatan transfer data yang tinggi menjadi keunggulan utama dibandingkan metode lain seperti penggunaan flash drive atau transfer melalui jaringan Wi-Fi yang lebih lambat dan rentan terhadap gangguan sinyal.</p>
 
-<h3>Keberhasilan Proses Perakitan</h3>
 <ul>
-  <li>Selama perakitan, digunakan Crimping Tool untuk menjepit konektor RJ45 ke kabel UTP</li>
-  <li>Kesalahan dalam penyusunan kabel dapat menyebabkan jaringan tidak berfungsi, sehingga
-ketelitian dalam pemasangan sangat penting.</li>
-  <li>Dengan hasil pengujian yang menunjukkan koneksi berfungsi dengan baik, dapat disimpulkan
-bahwa proses pemasangan konektor dan penyusunan kabel telah dilakukan dengan benar.</li>
+  <li>Kecepatan Transfer: Dengan kabel LAN 100 Mbps atau 1 Gbps, kecepatan transfer file dapat mencapai puluhan hingga ratusan MBps, tergantung pada spesifikasi perangkat keras dan jenis kabel yang digunakan.</li>
+  <li>Stabilitas Koneksi: Tidak seperti Wi-Fi yang bisa mengalami interferensi, transfer file menggunakan kabel LAN lebih stabil dan memiliki latensi rendah.</li>
 </ul>
 
-<h3>Fungsi Teknik Pengkabelan</h3>
-<ul>
-  <li>Kabel Straight digunakan untuk menghubungkan perangkat yang berbeda, seperti
-komputer ke switch atau router ke modem</li>
-  <li>Kabel Cross digunakan untuk menghubungkan perangkat sejenis, seperti komputer ke
-komputer atau switch ke switch tanpa memerlukan port khusus (uplink).</li>
-</ul>
 
 <hr>
 <h2>Kesimpulan :</h2>
-<p>Berdasarkan hasil analisis percobaan, dapat disimpulkan bahwa proses
-perakitan kabel jaringan menggunakan kabel UTP dan konektor RJ45 berhasil dilakukan
-dengan baik. Keberhasilan ini ditunjukkan dengan hasil uji menggunakan LAN Cable Tester,
-yang menunjukkan bahwa seluruh jalur koneksi berfungsi dengan benar.</p>
+<p>Praktikum ini membuktikan bahwa transfer file antar komputer menggunakan kabel LAN dengan IP Address IPv4 adalah metode yang efisien dan stabil. Kecepatan tinggi dan keamanan menjadi keunggulan utama, meskipun terdapat keterbatasan dalam jangkauan dan fleksibilitas. Metode ini ideal digunakan dalam lingkungan jaringan lokal yang membutuhkan kecepatan dan keamanan tanpa perlu koneksi internet.</p>
 
-<br>
 
-<p>Selain itu, pemahaman mengenai perbedaan antara kabel Straight dan Cross sangat penting dalam
-konfigurasi jaringan. Kabel Straight digunakan untuk menghubungkan perangkat berbeda seperti
-komputer ke switch atau router ke modem, sedangkan kabel Cross digunakan untuk menghubungkan
-perangkat sejenis seperti komputer ke komputer atau switch ke switch.</p>
 
 
  
